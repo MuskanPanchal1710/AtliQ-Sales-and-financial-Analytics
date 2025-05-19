@@ -6,9 +6,11 @@ Atliq Hardware is a manufacturer and distributor of a wide range of computer har
 This Excel-based Business Intelligence (BI) project focuses on building comprehensive dashboards and reports that support strategic planning by providing deep insights into sales and financial performance.
 
 # 2. Project Objective
+
 To develop an interactive Excel dashboard—Sales and Finance Analytics Report—for Atliq Hardware, with the goal of uncovering actionable insights to guide strategic decision-making across departments.
 
 # 3. Sales Analysis
+
 **Objectives**
 
 • Analyze the top 10 products with the highest sales increase from 2020 to 2021.
@@ -21,28 +23,36 @@ To develop an interactive Excel dashboard—Sales and Finance Analytics Report�
 
 • Determine the top 5 countries by total sales in 2021.
 
-# Key Insights
+**Key Insights**
 
-**Top 10 Products with Sales Increase**
+→**Top 10 Products with Sales Increase**
 
 • Notable performers included **AQ Electron 4 3600 Desktop Processor** and **AQ Pen Drive DRC**, which showed significant year-on-year sales growth.
+![image](https://github.com/user-attachments/assets/5ea17a61-a644-4a9e-bc06-f19daf0d37bf)
 
-**Division-Wise Sales Comparison**
 
+→**Division-Wise Sales Comparison**
 
-**Top & Bottom 5 Products by Quantity**
+![image](https://github.com/user-attachments/assets/b37968ca-f2d7-4602-87ec-47dd213e2f3a)
+
+→**Top & Bottom 5 Products by Quantity**
+
 • **Top Seller:** AQ Master Wired x1 Mouse.
 
 • **Bottom Sellers:** Identified for review, optimization, or phase-out.
+![image](https://github.com/user-attachments/assets/21c0a6df-1346-47d0-96d8-03de7b58263a)
 
-**New Product Introductions in 2021**
+→**New Product Introductions in 2021**
+
 • 16 new products launched.
 
-• ***AQ Qwerty emerged** as a high-performing new entry.
+• **AQ Qwerty emerged** as a high-performing new entry.
+![image](https://github.com/user-attachments/assets/5fc530b6-5b8e-4506-a13f-699a34397f04)
 
-**Top 5 Countries by Sales in 2021**
 
-• India – $161.3M
+→**Top 5 Countries by Sales in 2021**
+
+• India 
 
 • USA
 
@@ -51,10 +61,13 @@ To develop an interactive Excel dashboard—Sales and Finance Analytics Report�
 • UK
 
 • Canada
+![image](https://github.com/user-attachments/assets/c241dd12-56c7-4421-808d-d6c3d59da903)
 
-**4. Financial Analysis**
+
+# 4. Financial Analysis
 
 **Objectives**
+
 • Monitor revenue generated from key customers.
 
 • Compare market performance against set sales targets.
@@ -65,30 +78,46 @@ To develop an interactive Excel dashboard—Sales and Finance Analytics Report�
 
 **Key Insights**
 
-**Customer Net Sales Performance**
+→**Customer Net Sales Performance**
+
 • Sales grew from $87.5M in 2019 to $598.9M in 2021, reflecting a 304.5% increase.
+![image](https://github.com/user-attachments/assets/6b142ee3-cbd0-495c-bd97-74017b93c9ee)
 
-**Market Performance vs. Sales Targets**
+
+→**Market Performance vs. Sales Targets**
+
 • Some markets exceeded expectations; others underperformed—highlighting areas for strategic realignment.
+![image](https://github.com/user-attachments/assets/37375337-6959-4475-88b9-4b1d8fab09ba)
 
-**Yearly Profit & Loss (P&L) Overview**
-• Net sales increased by 204.5% over three years.
 
-• Gross margin remained stable due to efficient cost management.
+→**Yearly Profit & Loss (P&L) Overview**
 
-**Quarterly P&L Comparison**
+• Net Sales increased sharply from ₹87.5M in 2019 to ₹598.9M in 2021, indicating a strong upward trend in sales over the three fiscal years.
+
+• Despite the growth in sales, the Gross Margin % dropped from 41.43% in 2019 to 36.43% in 2021, suggesting that cost of goods sold (COGS) increased at a higher rate than revenue, potentially affecting profitability.
+![image](https://github.com/user-attachments/assets/ce7dd920-2355-412b-92a4-44355d367149)
+
+
+→**Quarterly P&L Comparison**
+
 • 2021 showed sharp quarterly growth with stable profit margins despite rising operating costs.
 
-**Market-Specific Profitability**
+
+→**Market-Specific Profitability**
+
 • Japan and New Zealand delivered the highest profit margins.
 
 • Germany reported the lowest margin, indicating a need for cost or pricing review.
+![image](https://github.com/user-attachments/assets/2821243c-5671-429e-b2e7-0c836d3809b1)
 
-**Quarterly Gross Margin % by Region**
+
+→**Quarterly Gross Margin % by Region**
 
 • Regional gross margin analysis revealed variability in profitability, supporting localized strategy development.
+![image](https://github.com/user-attachments/assets/d60a51d8-bd39-45a0-9947-71835fe181a5)
 
-**5. Overall Insights Summary**
+
+# 5. Overall Insights Summary
 
 • **Sales Performance:** Significant revenue growth in 2021 (304% YoY increase).
 
@@ -102,7 +131,7 @@ To develop an interactive Excel dashboard—Sales and Finance Analytics Report�
 
 • **Profitability:** Consistent gross margins and profitable regional insights support sustainable growth.
 
-**6. Conclusion**
+# 6. Conclusion
 
 This Excel-based BI project equips Atliq Hardware with a powerful set of interactive reports and visual dashboards to:
 
