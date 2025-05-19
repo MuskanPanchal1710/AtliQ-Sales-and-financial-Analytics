@@ -25,24 +25,24 @@ To develop an interactive Excel dashboard—Sales and Finance Analytics Report�
 
 **Key Insights**
 
-→**Top 10 Products with Sales Increase**
+**1. Top 10 Products with Sales Increase**
 
 • Notable performers included **AQ Electron 4 3600 Desktop Processor** and **AQ Pen Drive DRC**, which showed significant year-on-year sales growth.
 ![image](https://github.com/user-attachments/assets/5ea17a61-a644-4a9e-bc06-f19daf0d37bf)
 
 
-→**Division-Wise Sales Comparison**
+**2. Division-Wise Sales Comparison**
 
 ![image](https://github.com/user-attachments/assets/b37968ca-f2d7-4602-87ec-47dd213e2f3a)
 
-→**Top & Bottom 5 Products by Quantity**
+**3. Top & Bottom 5 Products by Quantity**
 
 • **Top Seller:** AQ Master Wired x1 Mouse.
 
 • **Bottom Sellers:** Identified for review, optimization, or phase-out.
 ![image](https://github.com/user-attachments/assets/21c0a6df-1346-47d0-96d8-03de7b58263a)
 
-→**New Product Introductions in 2021**
+**4. New Product Introductions in 2021**
 
 • 16 new products launched.
 
@@ -50,7 +50,7 @@ To develop an interactive Excel dashboard—Sales and Finance Analytics Report�
 ![image](https://github.com/user-attachments/assets/5fc530b6-5b8e-4506-a13f-699a34397f04)
 
 
-→**Top 5 Countries by Sales in 2021**
+**5. Top 5 Countries by Sales in 2021**
 
 • India 
 
@@ -78,32 +78,35 @@ To develop an interactive Excel dashboard—Sales and Finance Analytics Report�
 
 **Key Insights**
 
-→**Customer Net Sales Performance**
+**1. Customer Net Sales Performance**
 
 • Sales grew from $87.5M in 2019 to $598.9M in 2021, reflecting a 304.5% increase.
 ![image](https://github.com/user-attachments/assets/6b142ee3-cbd0-495c-bd97-74017b93c9ee)
 
 
-→**Market Performance vs. Sales Targets**
+**2. Market Performance vs. Sales Targets**
 
 • Some markets exceeded expectations; others underperformed—highlighting areas for strategic realignment.
 ![image](https://github.com/user-attachments/assets/37375337-6959-4475-88b9-4b1d8fab09ba)
 
 
-→**Yearly Profit & Loss (P&L) Overview**
+**3. Yearly Profit & Loss (P&L) Overview**
 
 • Net Sales increased sharply from ₹87.5M in 2019 to ₹598.9M in 2021, indicating a strong upward trend in sales over the three fiscal years.
 
 • Despite the growth in sales, the Gross Margin % dropped from 41.43% in 2019 to 36.43% in 2021, suggesting that cost of goods sold (COGS) increased at a higher rate than revenue, potentially affecting profitability.
-![image](https://github.com/user-attachments/assets/ce7dd920-2355-412b-92a4-44355d367149)
+![image](https://github.com/user-attachments/assets/e3c0f771-2785-4a63-9313-9b6a1741b74c)
 
 
-→**Quarterly P&L Comparison**
+
+**4. Quarterly P&L Comparison**
 
 • 2021 showed sharp quarterly growth with stable profit margins despite rising operating costs.
+![image](https://github.com/user-attachments/assets/5bc65374-7cc5-44df-b2cd-f5e8880d5b3c)
 
 
-→**Market-Specific Profitability**
+
+**5. Market-Specific Profitability**
 
 • Japan and New Zealand delivered the highest profit margins.
 
@@ -111,10 +114,11 @@ To develop an interactive Excel dashboard—Sales and Finance Analytics Report�
 ![image](https://github.com/user-attachments/assets/2821243c-5671-429e-b2e7-0c836d3809b1)
 
 
-→**Quarterly Gross Margin % by Region**
+**6. Quarterly Gross Margin % by Region**
 
 • Regional gross margin analysis revealed variability in profitability, supporting localized strategy development.
-![image](https://github.com/user-attachments/assets/d60a51d8-bd39-45a0-9947-71835fe181a5)
+![image](https://github.com/user-attachments/assets/ff4650bd-03ba-400e-9260-1126b795b7f5)
+
 
 
 # 5. Overall Insights Summary
